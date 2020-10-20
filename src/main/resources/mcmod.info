@@ -1,0 +1,16 @@
+[
+{
+  "modid": "portalinputfix",
+  "name": "Portal Input Fix",
+  "description": "Backports a fix from 1.12 that makes your inputs register right after closing GUIs.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/RoccoDev/PortalInputFix",
+  "updateUrl": "",
+  "authorList": ["RoccoDev"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
