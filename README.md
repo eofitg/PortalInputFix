@@ -16,7 +16,7 @@ Since playing in 1.12 would basically give you the same experience, I'd recommen
 I am not responsible for any punishments related to this mod.
 
 ## Download
-You can find built jars in the [Releases](releases) tab.
+You can find built jars in the [Releases](https://github.com/RoccoDev/PortalInputFix/releases/latest) tab.
 
 ## Mod Conflicts
 See [MOD-DEVELOPERS.md](MOD-DEVELOPERS.md) for info on how this mod works.  
