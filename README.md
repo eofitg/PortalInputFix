@@ -1,7 +1,8 @@
 # Portal Input Fix
 ![Github All Releases](https://img.shields.io/github/downloads/RoccoDev/PortalInputFix/total.svg)
 
-For use with **Forge 1.8.9 only**.
+For use with **Forge 1.8.9 only**.  
+The fix this mod provides is already included with the [Patcher](https://sk1er.club/mods/patcher) mod, so don't use both.
 
 This mod backports a fix from Minecraft 1.12 that lets you input movement actions
 right after closing GUIs.  
