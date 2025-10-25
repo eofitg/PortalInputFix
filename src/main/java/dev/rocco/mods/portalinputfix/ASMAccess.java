@@ -22,7 +22,6 @@ import org.lwjgl.input.Keyboard;
 
 public class ASMAccess {
     public static void restoreKeyboardState() {
-        if(Minecraft.isRunningOnMac) return; // Not sure why, but Minecraft 1.12 seems to check this before updating the state
         for(KeyBinding keyBinding : Minecraft.getMinecraft().gameSettings.keyBindings) {
             try {
                 KeyBinding.setKeyBindState(keyBinding.getKeyCode(), keyBinding.getKeyCode() < 256 && Keyboard.isKeyDown(keyBinding.getKeyCode()));
